@@ -44,6 +44,8 @@
 
 cf) 추후 피처 엔지니어링 과정에서 이동평균 및 레그값을 추가함
 
+cf) 데이터 출처 : Yahoo Finance, Naver 금융(pandas-datareader 패키지 이용) 및 Fed, Investing.com
+
 ## 3. 데이터 전처리
 ---
 
